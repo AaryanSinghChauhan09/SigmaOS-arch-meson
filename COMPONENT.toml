@@ -3,7 +3,7 @@ name = "SigmaOS-arch-meson"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-meson component"
+description = "SigmaOS SigmaOS-arch-meson component"
 upstream = []
 
 [contract]
