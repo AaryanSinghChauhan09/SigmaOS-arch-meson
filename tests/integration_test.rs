@@ -1,4 +1,4 @@
-use arch_meson::Component;
+use sigmaos_meson::Component;
 
 #[test]
 fn test_component_new_aaa() {

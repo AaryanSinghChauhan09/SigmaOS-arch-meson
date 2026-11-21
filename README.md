@@ -1,6 +1,6 @@
-# SigmaOS-arch-meson
+# SigmaOS-meson
 
-SigmaOS SigmaOS-arch-meson component
+SigmaOS SigmaOS-meson component
 
 - **Category:** Components
 - **Engine:** component

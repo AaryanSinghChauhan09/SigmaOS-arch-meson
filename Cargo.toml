@@ -1,10 +1,10 @@
 [package]
-name = "arch-meson"
+name = "sigmaos-meson"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-meson component - SigmaOS component"
+description = "SigmaOS SigmaOS-meson component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-meson"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-meson"
 
 [dependencies]
 thiserror = "2"

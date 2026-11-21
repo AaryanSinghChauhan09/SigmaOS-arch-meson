@@ -1,9 +1,9 @@
 [component]
-name = "SigmaOS-arch-meson"
+name = "SigmaOS-meson"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "SigmaOS SigmaOS-arch-meson component"
+description = "SigmaOS SigmaOS-meson component"
 upstream = []
 
 [contract]
